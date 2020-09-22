@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Typerform clone UI animations
 
-# About
-Project to study animations using Framer Motion with ReacJS
+## About
+Project to study animations using Frame Motion with ReacJS based on the typerform website
 * https://www.framer.com/motion/
 
 
